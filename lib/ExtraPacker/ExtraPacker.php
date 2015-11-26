@@ -309,6 +309,7 @@
                     (
                         BASEPATH . 'i/css/',
                         BASEPATH . 'i/css/dev/bootstrap3',
+                        BASEPATH . 'i/css/dev/bootstrap3/mixins',
                         BASEPATH . 'i/css/_dev/bootstrap3'
                     )
                 );
